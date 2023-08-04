@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Profile%20&&animation=fadeIn)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=marchislike)](https://github.com/marchislike)
 
