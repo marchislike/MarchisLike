@@ -12,9 +12,5 @@ print("March is like.. ")
 
 
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marchislike)](https://github.com/marchislike/github-readme-stats)
-
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
