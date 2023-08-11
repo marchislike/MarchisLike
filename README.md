@@ -11,7 +11,7 @@ print("March is like.. ")
 ```
 
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=marchislike)](https://github.com/marchislike)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marchislike)](https://github.com/marchislike/github-readme-stats)
 
